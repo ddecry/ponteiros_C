@@ -2,6 +2,10 @@
 
 Este repositório contém exemplos simples de como utilizar **ponteiros** na linguagem **C**. Os códigos demonstram como acessar e manipular variáveis, arrays e matrizes por meio de ponteiros.
 
+## 📌 O que são ponteiros?
+
+Em C, **ponteiros** são variáveis que armazenam o **endereço de memória** de outras variáveis. Com eles, é possível acessar e modificar diretamente os dados armazenados na memória, o que torna o código mais eficiente e flexível — especialmente ao trabalhar com arrays, matrizes e funções.
+
 ## 📂 Exemplos
 
 ### 1. Valor e Endereço
@@ -24,5 +28,3 @@ Este repositório contém exemplos simples de como utilizar **ponteiros** na lin
 
 ### 7. Pontuação de Jogadores
 - Manipulação de uma matriz 4x4: soma por jogador, por set, contagem de pares e ímpares.
-
----
